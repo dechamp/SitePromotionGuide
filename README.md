@@ -10,3 +10,4 @@ A guide to site promotion
 * Connect Google Search Console
   * Gives you in-site on backlinks 
   * https://search.google.com/search-console/about 
+* Read https://moz.com/blog/beginners-guide-to-seo-chapter-1
